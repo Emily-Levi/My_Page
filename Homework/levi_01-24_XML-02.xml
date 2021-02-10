@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipe>
+    <Ingredients>
+        <Ingr type="dry"><amount>2</amount>
+            <unit>cups</unit> all purpose flour</Ingr>
+        <Ingr type="dry">2 <unit>teaspoons</unit> baking powder</Ingr>
+        <Ingr type="dry">pinch salt</Ingr>
+        <Ingr type="wet"><amount>4</amount> eggs</Ingr>
+        <Ingr type="dry"><amount>3/4</amount>
+            <unit>cup</unit> granulated sugar</Ingr>
+        <Ingr type="wet"><amount>1/2</amount>
+            <unit>cup</unit> vegetable oil</Ingr>
+        <Ingr type="wet"><amount>1</amount>
+            <unit>teaspoon</unit> vanilla extract</Ingr>
+        <Ingr type="wet"><amount>1½ </amount><unit>teaspoon</unit> anise extract OR <amount>2</amount> teaspoons anise seed
+            OR <amount>2</amount> teaspoons Anisette liqueur</Ingr></Ingredients>
+   <directions> Instructions <step>Preheat oven
+        to <temp n="350" u="fahreheit">350° F (180° C).</temp> Position rack in the center.</step>
+    <step>Grease and <DryIngr>flour</DryIngr> (or use non-stick spray) three<size> 8.5 x 4.5 </size>inch loaf pans. </step>
+    <step>In a medium bowl, sift together<DryIngr> flour</DryIngr>, <DryIngr>baking powder</DryIngr> and <DryIngr>salt</DryIngr>. Set aside.</step>
+    <step>In a large mixing bowl, or bowl of <tool>electric mixer</tool> fitted with whisk attachment beat the
+        <WetIngr>eggs</WetIngr> on medium speed until light and frothy <time>(about 2-3 minutes)</time>.</step>
+    <step>Add the <DryIngr>sugar</DryIngr> gradually and whisk for another minute or so.</step>
+    <step>Add the <WetIngr>oil</WetIngr> and <WetIngr>extracts</WetIngr>. Whisk for another minute.</step>
+    <step>Incorporate the flour mixture. Mix until combined.</step>
+    <step>Pour mixture in the<amount> 3</amount> prepared loaf pans</step>. <step>Bake for<time> 20-25 minutes</time>
+        or until firm to the touch</step>
+    <step>Remove from loaf pans and let cool for a <time>few minutes.</time></step>
+    <step>Transfer to cutting board.</step>
+    <step>Using a serrated knife, slice cookies about<size n="1/4" u="icnhes"> 1/4 inch</size> thick (or thicker).</step>
+    <step>Place slices flat down on parchment lined baking sheets, and bake for about another <time n="5-8" u="minutes">5-8
+        minutes</time> or longer, depending on your personnel preference and your oven (the longer they
+        stay in the oven, the crispier they get). Make sure to turn the slices over to ensure even
+        toasting.</step>
+    <step>Can be stored at room temperature for a few weeks...if they last that
+    long.</step></directions></Recipe>
