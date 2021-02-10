@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+    <recipeInfo>
+        <name>Country Loaf (Pain de Campagne)</name> Deb Lindsey for The Washington Post <date>SEP
+            10, 2014</date>
+        <authorNote>Washington author Sam Fromartz has been making sourdough variations of this
+            yeast bread for years.here, he adds <suggestion>fermented cider for flavor. A mild beer
+                may be substituted; an IPA would be too bitter.</suggestion> The loaf is sized to
+            last a few days. The optional tablespoon of water is to compensate for the variable
+            absorption of the rye and whole-wheat flours.</authorNote>
+        <requirement>You'll need a colander, a pastry cloth or clean dish towel and a covered
+            cast-iron or enameled cast-iron pot.</requirement>
+        <Tips> Make Ahead: The dough needs four 20-minute rests, plus an 8-to-24-hour stay in the
+            refrigerator and a final 1 1/2-hour rise. Storage Notes: Store the cooled loaf in a
+            paper bag for a day, and store in a plastic bag for a few days after that. Do not
+            refrigerate.</Tips>
+        <serving> SERVINGS: Tested size: 10-12 servings; makes one 11-ounce loaf 10 to 12
+            slices</serving></recipeInfo>
+
+    <heading>INGREDIENTS</heading>
+    <Ingredients>
+        <Ingr type="dry">1 1/4 <unit>cups (160 grams)</unit>
+            white bread flour, plus more for dusting
+        </Ingr>
+        <Ingr type=""> 1/4 <unit>cup (38 grams)</unit>
+            stone-ground whole-wheat flour
+        </Ingr>
+        <Ingr type="dry"> 1/4 <unit>cup(32 grams)</unit>
+            stone-ground whole rye flour</Ingr>
+        <Ingr type="dry"> 1/2 <unit>teaspoon</unit>
+            instant yeast or bread machine yeast</Ingr>
+        <Ingr type="dry">1 <unit>teaspoon</unit>
+            table salt
+        </Ingr>
+        <Ingr type="wet"> 1/4 cup <unit>(55 grams)</unit>
+            dry fermented cider <substitute>(may substitute Pilsener beer; see
+                    headnote</substitute>) </Ingr>
+        <Ingr type="wet">1/2 <unit>cup (120 grams)</unit>lukewarm water (80 degrees), plus an
+                optional 1 tablespoon
+        </Ingr>
+    </Ingredients>
+
+
+    <heading> DIRECTIONS</heading>
+    <Drctns>
+        <step>Whisk together the<DryIngr> flours</DryIngr>,<DryIngr> yeast</DryIngr> and <DryIngr>salt</DryIngr> in a mixing bowl.</step>
+        <step>Combine the <WetIngr>cider</WetIngr> and <WetIngr>water</WetIngr> in a liquid measuring cup.</step>
+        <step>Add the liquid to the flour mixture;</step>
+        <step>use a spatula or bench scraper or your hand moistened with water to blend them for
+            about a <time>minute.</time></step>
+        <step>The dough should be shaggy yet cohesive. Cover the bowl with a towel; </step>
+        <step>let the dough rest for <time>20 minutes</time>. </step>
+        <step> Moisten your kneading hand. If the dough seems stiff, add the optional tablespoon of
+            water.</step>
+        <step>Stretch one edge of the dough (still in the bowl), then press it into the center of
+            the bowl. Repeat this about a dozen times, moving clockwise to catch all sides of the
+            dough. (This should take <time  n= "1-2" u="minutes" >1 or 2 minutes</time>.)</step>
+        <step>Turn the dough over so the seams are on the bottom.</step>
+        <step>Cover and let rest for<time n="20" u="minutes"> 20 minutes</time>.</step>
+        <step>Repeat the clockwise stretching and folding two more times, with 20-minute rests after
+            each.</step>
+        <step>Cover and refrigerate at least<time n="8" u="hours"> 8 hours</time> and up to <time n="24" u="hours">24 hours</time>.
+            The dough should have doubled. If it hasn't, leave it on the counter until it
+            does.</step>
+        <step> Lightly flour a work surface.</step>
+        <step> Use a pastry cloth or clean dish towel to line a round colander</step>. <step>Dust
+            the cloth with flour. Transfer the dough to the floured work surface.</step>
+        <step>Fold the edges toward the center to create a round shape, turning it over so the seams
+            are on the bottom.</step>
+        <step>Let it rest for <time>5 minutes</time>, then transfer to the colander, seam side
+            up.</step>
+        <step>Cover with a towel and let the dough rise for <time n="1.5" u="hours" >1 1/2 hours</time>.</step>
+        <step>Thirty minutes before baking, place a cast-iron Dutch oven (lid on) or enameled
+            cast-iron pot with a lid (on) in the oven;</step>
+        <step>preheat to <temp n="475" u="fahrenheit">475 degrees</temp></step>. <step>Carefully remove the hot pot from
+            the oven. </step>
+        <step>Turn the dough out onto the counter so the seams are on the bottom.</step>
+        <step>Use kitchen scissors to make <amount>8</amount> snips on the top of the dough in an evenly spaced spoke
+            pattern, each about <size n= "1/4" u="inches">1/4-inch</size> deep.</step>
+        <step> Lift the dough and carefully drop it into the hot pot.</step>
+        <step>Immediately cover with the hot lid</step>
+        <step>Bake for <time n="30" u="minutes">30 minutes</time>, then reduce the heat to <temp n="450" u="fahrenheit">450 degrees</temp></step>
+        <step> Uncover and bake for <time>8 to 10 minutes</time> or until the crust is dark brown.
+            Try to minimize the amount of time the oven door is open.</step> The bread is done when
+        its internal temperature registers <temp n="205" u="fahrenheit">205 degrees</temp> on an instant-read thermometer and the loaf
+        sounds hollow when knocked on the underside. <step>Transfer the loaf to a wire rack to cool
+            for at least <time n="1" u="hours">1 hour </time>before cutting</step></Drctns>
+</recipe>
