@@ -1,6 +1,8 @@
 
 body {
-color: black;
+background-image: url(images/Background1.jpg);
+background-size: 30% 30%;
+color: white;
 font-family: arial, helvetica, sans-serif;
 }
 ol {list-style-type: lower-alpha;
