@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
+        <style>
+        h1 {
+            color: green;
+                }
+            p
+            {
+                color:green;
+            }
+        
+        </style>
         <title>HTML Ex 1</title>
         <meta charset="UTF-8" />
         <meta name="author" content="My Name" />
@@ -15,6 +25,7 @@
     
     <h1>
     
+    
     About me
     
     </h1>
@@ -28,7 +39,59 @@
        
     <br>
     <br>
-    <body>
+         <body style = "text-align:center;">
+           
+    
+       
+          
+        <button onclick = "Light()"> 
+            Light Mode
+        </button>
+        <button onclick = "Dark()"> 
+            Dark Mode
+        </button>
+          
+          
+        <script>
+           
+          
+            function changeColor(color) {
+                document.body.style.background = color;
+            }
+              
+            function Light() {
+                changeColor('white');
+                el_down.innerHTML = "Background Color changed";
+            }  
+            
+            
+           
+          
+            function changeColor(color) {
+                document.body.style.background = color;
+            }
+              
+            function Dark() {
+                changeColor('black');
+                el_down.innerHTML = "Background Color changed";
+            } 
+        </script> 
+   
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
        <p>Emily is currently a college student majoring in DIGIT at the Penn State Behrend University. Emily planning to minor in psychology  Emily is the vice president of Behrend's gender and sexuality equality club(GASE). During Emily's free time she either plays video games or does something craft related.</p>
-    </body>
+   </body> 
+        
 </html>
